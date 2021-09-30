@@ -31,4 +31,7 @@
 ### Filters
 
 * from:_JohnHammond
-![](2021-09-30-23-44-04.png)
+![image](https://user-images.githubusercontent.com/60841283/135509601-6beb62a6-c538-4043-9401-fa953bcc7472.png)
+
+* @_JohnHammond since:2019-01-01 until:2019-01-10
+![image](https://user-images.githubusercontent.com/60841283/135509929-45231fa4-4cce-4fd7-9079-16348f6db2aa.png)
