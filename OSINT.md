@@ -35,3 +35,11 @@
 
 * @_JohnHammond since:2019-01-01 until:2019-01-10
 ![image](https://user-images.githubusercontent.com/60841283/135509929-45231fa4-4cce-4fd7-9079-16348f6db2aa.png)
+
+#### Recon on twitter
+> https://socialbearing.com/
+
+> https://www.twitonomy.com/ ( Requires Sign-In)
+
+> https://tweetbeaver.com/ ( Requires Sign-In)
+
