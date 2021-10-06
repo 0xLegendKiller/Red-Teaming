@@ -43,3 +43,11 @@
 
 > https://tweetbeaver.com/ ( Requires Sign-In)
 
+> http://spoonbill.io/ (This is unsafe , but it tracks every activity of people you follow on twitter)
+
+> https://analytics.mentionmapp.com/ (Not really tried but it requires Sign-In)
+
+# Facebook 
+* Use filter like "photos of ~some_name~" and see if you find other people tagging him.
+> https://intelx.io/tools?tab=facebook (Not much relevent but useful somtimes).
+
