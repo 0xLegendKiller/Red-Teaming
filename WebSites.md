@@ -6,6 +6,9 @@
 * For log4j 
 > https://log4shell.huntress.com/
 
+## Server browser enumeration or temp requester 
+> http://webhook.site/
+
 ## OWASP Testers
 * For XSS
 > https://xsshunter.com/
@@ -23,6 +26,8 @@
 > https://www.virustotal.com/gui/home/search
 > 
 > https://www.shodan.io/
+> 
+> https://crt.sh/
 
 ## Encoders
 > https://raikia.com/tool-powershell-encoder/
