@@ -9,6 +9,13 @@
 ## OWASP Testers
 * For XSS
 > https://xsshunter.com/
+* For SSRF or open-redirect
+> https://tools.intigriti.io/redirector/
+>
+> https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
+
+## Internet Exfiltration Services
+> http://pingb.in/ or Burp Collaborator
 
 ## For domain enum
 > https://search.censys.io/
