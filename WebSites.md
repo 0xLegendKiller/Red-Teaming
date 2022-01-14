@@ -19,6 +19,8 @@
 
 ## Internet Exfiltration Services
 > http://pingb.in/ or Burp Collaborator
+>
+> https://app.interactsh.com/
 
 ## For domain enum
 > https://search.censys.io/
@@ -31,6 +33,10 @@
 
 ## Encoders
 > https://raikia.com/tool-powershell-encoder/
+
+## Decoders
+* JWT tokens
+> https://jwt.io/
 
 ## Rev shells
 > https://www.revshells.com/
